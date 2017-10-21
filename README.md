@@ -8,7 +8,9 @@ https://docs.google.com/document/d/1eJQeL6HtdlleGvD55ReBhAsg0__G0ohv_4GdPzc0roM/
 
 # Google Slide
 The slide contains published data visualizations of the metric used to advocate facts and comparisons about Santa Clara University MSIS program with other colleges.
+
 I have used three metrics:
+
 1st Metric: Santa Clara University MSIS Ranking, acceptance rate and Student to Teacher ratio 
 This metric aims at conveying the program ranking, the average acceptance rate of students who apply for programs at the college and Student to teacher ratio which gives students an insight on whether or not they would be receiving the personal attention they deserve.
 
